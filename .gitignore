@@ -1,5 +1,5 @@
 *
 !.vim[^i]*
-!.gitignore
+!.git*
 !.bashrc
 !.zshrc

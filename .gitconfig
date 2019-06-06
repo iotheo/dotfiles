@@ -1,0 +1,6 @@
+[user]
+	email = ioan.theodo@gmail.com
+	name = iotheo
+	signingkey = 0341AABC396BF425
+[commit]
+	gpgsign = true
